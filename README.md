@@ -1,6 +1,10 @@
 # ✨ Cool Frontend Visuals ✨
 
-[![Banner](./assets/banner.png)](https://github.com/your-username/cool-frontend-visuals)
+<p align="center">
+<picture>
+<img src="./assets/banner.png" alt="Cool Frontend Visuals Banner" width="40%">
+</picture>
+</p>
 
 > A curated collection of mind-blowing frontend experiments, animations, and visual effects found across the digital universe.
 
@@ -23,9 +27,7 @@ Welcome to **Cool Frontend Visuals**! This repository is a personal sandbox and 
 
 ## 🚀 Featured Visuals
 
-*(Add your favorites here with links and previews)*
-
-- [ ] **Morphing Liquid Blobs** - A smooth SVG filter experiment.
+- [x] **[Antigravity Mouse Follow](./hover-and-click/antigravity-mouse-follow/index.html)** - A GPGPU-inspired particle system reacting to your cursor.
 - [ ] **Stardust Particles** - Interactive cursor-driven canvas particles.
 - [ ] **Glassmorphic Dashboard** - A sleek, semi-transparent UI layout.
 
@@ -47,6 +49,7 @@ Found a visual that belongs here? Feel free to open a Pull Request! Please ensur
 - Include a working demo.
 - Respect the original author by providing proper attribution.
 - Keep the code clean and well-commented.
+- Follow the [How to Add a New Visual](#how-to-add-a-new-visual) section.
 
 ---
 
@@ -55,7 +58,6 @@ Found a visual that belongs here? Feel free to open a Pull Request! Please ensur
 This project is inspired by the incredible creative coding community. Special thanks to:
 - [CodePen](https://codepen.io)
 - [Awwwards](https://www.awwwards.com)
-- [Frontend Horse](https://frontendhorse.com)
 - All the individual creators whose work is featured here!
 
 ---

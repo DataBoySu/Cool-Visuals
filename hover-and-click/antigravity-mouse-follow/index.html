@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antigravity Mouse Follow | Cool Frontend Visuals</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.160.0/three.min.js"></script>
+</head>
+
+<body>
+    <!-- The container for particles -->
+    <div id="antigravity-container"></div>
+
+    <div class="overlay">
+        <h1>Antigravity</h1>
+        <p>A modular, high-performance particle system.</p>
+    </div>
+
+    <!-- The Library -->
+    <script src="script.js"></script>
+
+    <!-- Initialization -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Drop-in usage:
+            new Antigravity({
+                container: document.getElementById('antigravity-container'),
+                particleCount: 40000,     // Denser experience
+                influenceRatio: 0.85,    // 85% particles react, 15% stay static
+                range: 3.5,              // Larger mouse interaction area
+                size: 0.03,              // Slightly larger circular particles
+                colors: ['#4285F4', '#34A853', '#FBBC05', '#EA4335', '#ffffff']
+            });
+        });
+    </script>
+</body>
+
+</html>
