@@ -27,7 +27,7 @@ Welcome to **Cool Frontend Visuals**! This repository is a personal sandbox and 
 
 ## 🚀 Featured Visuals
 
-- [x] **[Antigravity Mouse Follow](./hover-and-click/antigravity-mouse-follow/index.html)** - A GPGPU-inspired particle system reacting to your cursor.
+- [x] **[Antigravity Mouse Follow](./hover-and-click/antigravity-mouse-follow)** - A GPGPU-inspired particle system reacting to your cursor.
 - [ ] **Stardust Particles** - Interactive cursor-driven canvas particles.
 - [ ] **Glassmorphic Dashboard** - A sleek, semi-transparent UI layout.
 
