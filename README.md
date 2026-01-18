@@ -8,7 +8,7 @@
 
 > A curated collection of mind-blowing frontend experiments, animations, and visual effects found across the digital universe.
 
-Welcome to **Cool Frontend Visuals**! This repository is a personal sandbox and a collection of the most inspiring, beautiful, and technically impressive frontend effects I've encountered on the web. From delicate CSS micro-interactions to complex WebGL shaders, this is a tribute to the art of code.
+Welcome to **Cool Frontend Visuals**! This repository is a taste-based sandbox and a collection of the most inspiring, beautiful, and technically impressive frontend effects I've encountered on the web. From delicate CSS micro-interactions to complex WebGL shaders, this is a tribute to the art of code.
 
 ---
 
